@@ -10,13 +10,12 @@ Here's an example of the HTML structure:
     <header>
         <!-- Logo, navigation, and other header elements go here -->
     </header>
-
     <main>
         <!-- Home page, product listing, and other page elements go here -->
     </main>
-
     <footer>
         <!-- Footer elements such as contact information, links, and legal information go here -->
     </footer>
 </body>
+Click Here to view the website 
 The website clone features the same header, footer, and general layout as the original Myntra website. It also includes sections for the home page, product listings, and other pages that make up the website.
