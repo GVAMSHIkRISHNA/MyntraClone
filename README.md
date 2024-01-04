@@ -17,5 +17,6 @@ Here's an example of the HTML structure:
         <!-- Footer elements such as contact information, links, and legal information go here -->
     </footer>
 </body>"
+
 Click Here to view the website "https://gvamshikrishna.github.io/MyntraClone/"
 The website clone features the same header, footer, and general layout as the original Myntra website. It also includes sections for the home page, product listings, and other pages that make up the website.
